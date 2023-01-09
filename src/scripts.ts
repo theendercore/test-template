@@ -15,7 +15,7 @@ let resultTwo = speedFormula(a, b); //? 5
 
 //makeWebsite()
 
-//Bet kā izmantot abstrakciju, un kāpēc?
+//Kā un kāpēc to izmantot?
 
 console.log("Function ", " speedFormula");
 
