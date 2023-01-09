@@ -10,5 +10,3 @@ npm start
 ```
 
 
-# Todo
-- [x] - make nr 17 shorter

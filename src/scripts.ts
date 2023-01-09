@@ -1,4 +1,4 @@
-// Kas ir abstrakcija ?
+//! Kas ir abstrakcija ?
 /*
     Loģisks process, kurā doma novēršas no kāda priekšmeta vai parādības nebūtiskajām,
     nejaušajām pazīmēm un izdala, fiksē to vispārīgās un būtiskās pazīmes; abstrahēšana.
@@ -18,7 +18,6 @@ let resultTwo = speedFormula(a, b); //? 5
 //Kā un kāpēc to izmantot?
 
 console.log("Function ", " speedFormula");
-
 document.querySelector("#console").innerHTML +=
   'Function - <span class="val">speedFormula</span>';
 
