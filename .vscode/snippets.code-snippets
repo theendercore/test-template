@@ -9,7 +9,7 @@
   "test.func": {
     "scope": "javascript,typescript",
     "prefix": "test",
-    "body": ["const $1 = ($2)$3 => {$4};\ntest($1, \"$1\", $5)"],
+    "body": ["const $1 = ($2)$3 => {$4};\ntest($1, \"$1\", $0)"],
     "description": "Test func snipet"
   }
 }
