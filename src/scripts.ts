@@ -13,6 +13,8 @@ const speedFormula = (distance: number, time: number): number =>
 let result = a / b; //* 5
 let resultTwo = speedFormula(a, b); //? 5
 
+//makeWebsite()
+
 //Bet kā izmantot abstrakciju, un kāpēc?
 
 console.log("Function ", " speedFormula");
