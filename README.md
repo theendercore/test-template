@@ -1,4 +1,4 @@
-# html_ts_boilerplate && test template
+# Test function Template
 To start coding open your terminal and write
 ```
 npm i
